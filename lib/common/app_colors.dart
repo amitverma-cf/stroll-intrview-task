@@ -3,12 +3,10 @@ import 'package:flutter/material.dart';
 class AppColors {
   static const mainTextColor = Color(0xFFCCC8FF);
   static const secondaryTextColor = Color(0xFFCBC9FF);
-  static const thirdTextColor = Color(0xFFC4C4C4);
   static const fourthTextColor = Color(0xFFffffff);
   static const mainColor = Color(0xFF8B88EF);
   static const secondaryMainColor = Color(0xFFB5B2FF);
   static const boxColor = Color(0xFF232A2E);
-  static const secondaryBoxColor = Color(0xFF6F6E7C);
   static const backgroundColor = Color(0xFF0F1115);
 
   static const bgGradient = LinearGradient(
