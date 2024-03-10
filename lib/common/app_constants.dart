@@ -1,0 +1,6 @@
+class AppConstants {
+  static const String bgUrl =
+      "https://s3-alpha-sig.figma.com/img/037d/66dc/ea5ead81bdcfd5e22995638629f2500b?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ad2gWaFkcjCPWi8rVOolsJj63ZBth3mgqOSuUyoRudQ7nsNysx9loNURu~RVDhch0gB8UPG6SyWeyNM3S5PHNgKCiNjV6tMB24CdzoGKwJSP5YUI9IYZa0xym0OrYoEcqItL4wqdZHGRSndk~pVroaREzTYhaLh5qPS9UVXaLS-HHd5jwrBLy9u7UwqXTnoZ36deWpdwOaBOdlRrN0h5psobsC~pmsHI8GfdIlmwJ3JGvZqFavNHelndVLjYjRAbcXKyY0C8xPMTu2OJbL2cy-6PzHbirll98~BOZQAGHreCeKku9IOfjyo-o3oKGIQ70sBNedF4lJ5Fr1Z6GRxaUA__";
+  static const String profileUrl =
+      "https://s3-alpha-sig.figma.com/img/508b/3fd0/37a6f948735011175e374f6c78eca90e?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aUPbDcNPBHX~DJHqexgelPRBsUV1UgjiaWWcz6n-GAUyCaG~Y12hmbQNHC1KIR15tIKpYZ8jm-ArrDqRuOh6kpScMhGu6Sk57m53SUoZ7EB0e~qzzTmSjfBzc5ebt8V~YjOq8vYifmLeTFw7e-s3INW1A0t32uGaeKQidMDUO~XJCC2wOfo4M8Su6Z3FVToSUAIONN7COjo5xQPgt1tQbDrtcIXzWYic~XQPBsbYRG1kHGd~dMzTXcLW2HjTuPV2UsRnc2wTnRYxsWro50t-c5hxx4gyb1tQqDkMc83KDR1ZZM8yjzYXyv5oJ-n0jgXZJkQDJrFA6Tt5h~nHjP9SOA__";
+}
